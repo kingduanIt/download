@@ -103,4 +103,4 @@ public class MD5Digester {
 		System.out.print(MD5Digester.encode("123456"));
 	}
 }
-//增加测试
+增加测试222222
